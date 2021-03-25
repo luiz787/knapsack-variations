@@ -10,6 +10,9 @@
             "request": "launch",
             "program": "src/main.py",
             "console": "integratedTerminal",
+            "args": [
+                "dataset/low-dimensional/f5_l-d_kp_15_375"
+            ]
         }
     ]
 }
